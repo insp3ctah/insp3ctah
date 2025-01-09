@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D33F7&center=true&vCenter=true&width=435&lines=I'm+simply+better;just+a+quant%2C+anyways.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=9D33F7&center=true&vCenter=true&width=1000&height=150&lines=I'm+simply+better;just+a+quant%2C+anyways.)](https://git.io/typing-svg)
 
 # Hi, I'm Dmitrii👋 
 
@@ -33,15 +33,6 @@ I work on a variety of projects ranging from **automated trading bots** to **pre
 
 - 📊 **Trading Strategy Development**: I've developed several quantitative strategies leveraging **machine learning**, including **pair trading**, **statistical arbitrage**, and **stochastic processes forecasting**.
 - 🧠 **Machine Learning Models**: I have worked on **forecasting models** that predict asset price movements using techniques like **deep learning**, **reinforcement learning**, and **time series analysis**.
-
-## 🔧 Tools & Technologies
-
-- **Programming Languages**: Go, C++, R, Python, MATLAB
-- **Data Analysis**: MATLAB, R, Pandas, NumPy, SciPy, Statsmodels
-- **Machine Learning Frameworks**: scikit-learn, TensorFlow, PyTorch
-- **Database Management**: SQL, MongoDB, PostgreSQL
-- **Backtesting Tools**: Own private soft, QuantConnect, Backtrader, Zipline
-- **Version Control**: Git, GitHub, GitLab
 
 ## 📬 Contacts
 Feel free to reach out to me for collaborations or any interesting discussions on quantitative finance and software engineering!  
