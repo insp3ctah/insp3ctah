@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=9D33F7&center=true&vCenter=true&width=1000&height=150&lines=simply+better;just+a+quant%2C+anyways.)](https://git.io/typing-svg)
 
- - I am a **Quantitative Analyst** (Quant) with a deep understanding of **Finance**, specializing in the development of **trading strategies** and **algorithmic trading**. I have a strong technical background and am passionate about applying **data science** and **machine learning** to financial markets.
-
+ - I am a **Quantitative Analyst** (Quant) with a deep understanding of **Finance**, specializing in the development of **trading strategies** and **algorithmic trading**. Expert in applying **data science** and **machine learning** to financial markets.
  - ITMO University student, **Software Engineering** 
- - **Algo-trading** startup Founder & CEO.
+ - **Algo-trading** startup **co-counder & CEO**.
 
 ## 🚀 Skills & Expertise
 
