@@ -15,12 +15,13 @@
 - **Machine Learning & Data Science**:  
   - Supervised and unsupervised learning algorithms
   - Time series analysis and forecasting
-  - Model evaluation and optimization
 - **Statistics and Mathematics**:
   - Algorithmic Game Theory
   - Statistics and Probality Theory 
   - Financial Mathematics
   - Higher Mathematics
+  - Stochastic Calculus
+  - Ito Calculus
 - **Backend Development**:  
   - Building scalable, high-performance systems for financial applications
   - API development and microservices architectures
